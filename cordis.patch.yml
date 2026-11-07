@@ -1,0 +1,4 @@
+# dsh-music-v2 bundle patch: inserts this plugin into a profile's layer stack.
+- insert:
+    - id: dsh-music-v2
+      name: dsh-music-v2
